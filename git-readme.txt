@@ -27,3 +27,9 @@ How to publish code to Git - Server
     { }==> git remote add origin https://github.com/shalinisolomon/memory-game.git
     {*}==> git push
     { }==> git push -u origin master [DO THIS ONLY FIRST TIME AFTER STEP 2]
+
+****** Simplified *****
+1. git commit -am "ENTER COMMIT MESSAGE"
+2. git pull --rebase
+3. git push
+
